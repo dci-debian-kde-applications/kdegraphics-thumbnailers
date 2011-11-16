@@ -1,0 +1,22 @@
+Source: kdegraphics-thumbnailers
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.7.1),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.7),
+ libkexiv2-dev (>= 4:4.7), libkdcraw-dev (>= 4:4.7)
+Standards-Version: 3.9.2
+Homepage: http://www.kde.org/
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kdegraphics-thumbnailers
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kdegraphics-thumbnailers
+
+Package: kdegraphics-thumbnailers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Replaces: kdegraphics-strigi-plugins (<< 4:4.6.90)
+Breaks: kdegraphics-strigi-plugins (<< 4:4.6.90)
+Description: graphics file format thumbnailers for KDE SC
+ These plugins allow KDE software to create thumbnails for several
+ advanced graphic file formats (PS, RAW).
