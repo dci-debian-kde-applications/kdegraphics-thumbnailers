@@ -2,6 +2,9 @@ Format: http://www.debian.org/doc/copyright-format/1.0
 Upstream-Name: Thumbnailers
 Upstream-Contact: kde-devel@kde.org
 Source: ftp.kde.org
+Comment: This package was developed for Ubuntu by the Kubuntu Developers and
+ modified to be included in Debian. See below the copyright holders for debian/*
+ files.
 
 Files: ps/dscparse.cpp
        ps/dscparse.h
