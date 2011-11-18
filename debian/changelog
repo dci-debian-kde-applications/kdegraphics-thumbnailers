@@ -1,29 +1,5 @@
-kdegraphics-thumbnailers (4:4.7.1-0ubuntu2) oneiric; urgency=low
+kdegraphics-thumbnailers (4:4.7.2-0r0) UNRELEASED; urgency=low
 
-  * No-change rebuild so translations aren't stripped from .desktop
-    files anymore.
+  * Initial release. Start from the Ubuntu packaging, thanks!
 
- -- Felix Geyer <debfx-pkg@fobos.de>  Thu, 15 Sep 2011 23:33:26 +0200
-
-kdegraphics-thumbnailers (4:4.7.1-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 10:45:09 -0400
-
-kdegraphics-thumbnailers (4:4.7.0-0ubuntu1) oneiric; urgency=low
-
-  * New upstream release
-
- -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 23 Jul 2011 14:41:08 +0200
-
-kdegraphics-thumbnailers (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
-
-  [ Harald Sitter ]
-  * Initial release (moved out of kdegraphics)
-  * Repack upstream source to contain copies of GPL and LGPL
-
-  [ Felix Geyer ]
-  * Add reference to /usr/share/common-licenses/GPL-1 in the copyright file.
-
- -- Harald Sitter <apachelogger@ubuntu.com>  Tue, 12 Jul 2011 22:10:08 +0200
+ -- José Manuel Santamaría Lema <panfaust@gmail.com>  Fri, 18 Nov 2011 08:58:45 +0100
