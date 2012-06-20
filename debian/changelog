@@ -1,4 +1,4 @@
-kdegraphics-thumbnailers (4:4.8.4-0r0) UNRELEASED; urgency=low
+kdegraphics-thumbnailers (4:4.8.4-1) unstable; urgency=low
 
   * Team upload.
   * New upstream release.
@@ -9,7 +9,7 @@ kdegraphics-thumbnailers (4:4.8.4-0r0) UNRELEASED; urgency=low
   * Bump Standards-Version to 3.9.3, no further changes.
   * Add watch file.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 20 Jun 2012 11:37:50 +0200
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Wed, 20 Jun 2012 10:29:01 -0300
 
 kdegraphics-thumbnailers (4:4.7.4-2) unstable; urgency=low
 
