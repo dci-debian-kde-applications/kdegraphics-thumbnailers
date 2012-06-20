@@ -8,7 +8,7 @@ Comment: This package was developed for Ubuntu by the Kubuntu Developers and
 
 Files: ps/dscparse.cpp
        ps/dscparse.h
-Coptright: 2000-2001, Ghostgum Software Pty Ltd.
+Copyright: 2000-2001, Ghostgum Software Pty Ltd.
 License: GPL-1+
  This file is distributed in the hope that it will be useful, but
  WITHOUT ANY WARRANTY.  No author or distributor accepts responsibility
