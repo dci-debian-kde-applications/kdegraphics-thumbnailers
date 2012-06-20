@@ -6,7 +6,7 @@ Uploaders: José Manuel Santamaría Lema <panfaust@gmail.com>,
  Eshat Cakar <info@eshat.de>
 Build-Depends: kde-sc-dev-latest (>= 4:4.8.4),
  cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.7), libkexiv2-dev (>= 4:4.7), 
+ kdelibs5-dev (>= 4:4.8), libkexiv2-dev (>= 4:4.7),
  libkdcraw-dev (>= 4:4.7)
 Standards-Version: 3.9.2
 Homepage: http://www.kde.org/
