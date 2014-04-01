@@ -1,5 +1,5 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Thumbnailers
+Upstream-Name: kdegraphics-thumbnailers
 Upstream-Contact: kde-devel@kde.org
 Source: ftp.kde.org
 Comment: This package was developed for Ubuntu by the Kubuntu Developers and
