@@ -1,3 +1,9 @@
+kdegraphics-thumbnailers (4:4.14.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 06:24:41 +0200
+
 kdegraphics-thumbnailers (4:4.11.3-2) unstable; urgency=medium
 
   * Bump Standards-Version to 3.9.5, no changes needed.
