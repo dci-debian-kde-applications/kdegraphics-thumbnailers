@@ -4,8 +4,9 @@ kdegraphics-thumbnailers (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
    - Change maintainer to Debian/Kubuntu
    - Fix Watch file applications locations 
    - Fix VCS for new kde-applications location
+   - Fix typo.
   * Debian merge, no remaining changes. 
-
+ 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 24 Nov 2014 19:32:43 +0000
 
 kdegraphics-thumbnailers (4:4.14.2-1) unstable; urgency=medium
