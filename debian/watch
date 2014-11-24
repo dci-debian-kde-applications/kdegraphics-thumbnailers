@@ -1,2 +1,4 @@
 version=3
-http://download.kde.org/stable/([\d.]+)/src/kdegraphics-thumbnailers-([\d.]+).tar.xz
+http://download.kde.org/stable/applications/([\d.]+)/src/kdegraphics-thumbnailers-([\d.]+).tar.xz
+
+http://download.kde.org/unstable/applciations/([\d.]+)/src/kdegraphics-thumbnailers-([\d.]+).tar.xz
