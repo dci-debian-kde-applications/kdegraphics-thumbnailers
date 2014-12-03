@@ -28,7 +28,8 @@ License: GPL-1+
  License version 1 can be found in the file
  `/usr/share/common-licenses/GPL-1'.
 
-Files: ps/dscparse_adapter.cpp
+Files: *
+       ps/dscparse_adapter.cpp
        ps/dscparse_adapter.h
 Copyright: 2001, the KGhostView authors
 License: GPL-2+
