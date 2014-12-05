@@ -1,8 +1,12 @@
-kdegraphics-thumbnailers (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+kdegraphics-thumbnailers (4:14.11.97-0ubuntu1~ubuntu15.04~ppa2) vivid; urgency=medium
 
+  [ Scarlett Clark ]
   * New upstream release candidate
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 02 Dec 2014 10:26:29 -0800
+  [ Jonathan Riddell ]
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Dec 2014 16:56:18 +0100
 
 kdegraphics-thumbnailers (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
