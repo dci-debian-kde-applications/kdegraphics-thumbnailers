@@ -2,6 +2,7 @@ kdegraphics-thumbnailers (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Debian merge: No remaining changes. 
+  * Remove the qt4 deps and replace them with the kf5 versions.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 01 Feb 2016 09:42:01 -0800
 
