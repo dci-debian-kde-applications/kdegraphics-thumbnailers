@@ -1,10 +1,11 @@
-kdegraphics-thumbnailers (4:15.12.3-1~1.gbp6a1581) UNRELEASED; urgency=medium
+kdegraphics-thumbnailers (4:16.04.0-1~1.gbpbe339e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @6a158132205d85258a229ca263f155a092de9484 **
+  ** SNAPSHOT build @be339e711a3e912aed1645ee5bd3178d787b30b1 **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 14:18:39 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 04:18:11 +0200
 
 kdegraphics-thumbnailers (4:15.12.0-1) experimental; urgency=medium
 
