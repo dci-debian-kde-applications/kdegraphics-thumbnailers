@@ -1,17 +1,17 @@
-kdegraphics-thumbnailers (4:16.04.1-0neon) xenial; urgency=medium
+kdegraphics-thumbnailers (4:16.04.0-1) unstable; urgency=medium
 
-  * New release
-
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:14:11 +0200
-
-kdegraphics-thumbnailers (4:16.04.0-1~1.gbpbe339e) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @be339e711a3e912aed1645ee5bd3178d787b30b1 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 04:18:11 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update vcs uris to the applications one
+  * Use the newer debian-qt-kde.m
+  * Update build-deps and deps with the info from cmake
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 May 2016 11:56:19 +0200
 
 kdegraphics-thumbnailers (4:15.12.0-1) experimental; urgency=medium
 
