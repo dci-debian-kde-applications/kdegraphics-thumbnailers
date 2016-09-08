@@ -1,3 +1,11 @@
+kdegraphics-thumbnailers (4:16.08.1-1~1.gbp764795) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @764795f18f9fd3ae6b952cd632a38bac9dcb366b **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:18:41 +0200
+
 kdegraphics-thumbnailers (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
