@@ -1,16 +1,12 @@
-kdegraphics-thumbnailers (4:16.08.2-1~1.gbp9b2a6c) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @9b2a6c3eeb83b0fc9902a58a7450462a73e46366 **
+kdegraphics-thumbnailers (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @764795f18f9fd3ae6b952cd632a38bac9dcb366b **
-
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 22:18:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:07:48 +0200
 
 kdegraphics-thumbnailers (4:16.04.0-1) unstable; urgency=medium
 
