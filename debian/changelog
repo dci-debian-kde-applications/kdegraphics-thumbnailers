@@ -1,11 +1,9 @@
-kdegraphics-thumbnailers (4:16.08.2-2~1.gbp5767ee) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @5767ee2ef2ad616756075d735cd7463231f8e9c3 **
+kdegraphics-thumbnailers (4:16.08.2-2) unstable; urgency=medium
 
   * Add ghostscript recommends.
     Thanks to Mateusz Kowalewski for reporting (Closes: 841266)
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 19 Oct 2016 09:18:29 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 21:08:11 +0100
 
 kdegraphics-thumbnailers (4:16.08.2-1) unstable; urgency=medium
 
