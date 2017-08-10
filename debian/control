@@ -21,8 +21,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kdegraphics-thumbna
 Package: kdegraphics-thumbnailers
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Replaces: kdegraphics-strigi-plugins (<< 4:4.6.90)
-Breaks: kdegraphics-strigi-plugins (<< 4:4.6.90)
+Replaces: kdegraphics-strigi-plugins (<< 4:4.6.90), ${kde-l10n:all}
+Breaks: kdegraphics-strigi-plugins (<< 4:4.6.90), ${kde-l10n:all}
 Description: graphics file format thumbnailers for KDE SC
  These plugins allow KDE software to create thumbnails for several
  advanced graphic file formats (PS, RAW).
