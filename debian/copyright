@@ -38,7 +38,8 @@ Files: raw/rawcreator.cpp
 Copyright: 2008, Unai Garro <ugarro@gmail.com>
 License: GPL-2+
 
-Files: ps/gscreator.cpp
+Files: *
+       ps/gscreator.cpp
        ps/gscreator.h
 Copyright: 2001, Malte Starostik <malte@kde.org>
            2003, Philipp Hullmann <phull@gmx.de>
