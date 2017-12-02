@@ -22,8 +22,8 @@ Package: kdegraphics-thumbnailers
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: ghostscript
-Replaces: kdegraphics-strigi-plugins (<< 4:4.6.90), ${kde-l10n:all}
-Breaks: kdegraphics-strigi-plugins (<< 4:4.6.90), ${kde-l10n:all}
+Replaces: kdegraphics-strigi-plugins (<< 4:4.6.90)
+Breaks: kdegraphics-strigi-plugins (<< 4:4.6.90)
 Description: graphics file format thumbnailers for KDE SC
  These plugins allow KDE software to create thumbnails for several
  advanced graphic file formats (PS, RAW).
